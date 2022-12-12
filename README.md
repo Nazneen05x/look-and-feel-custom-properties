@@ -1,6 +1,6 @@
 > De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# ✨Look-and-feel-custom-properties - Living style guide✨
+# ✨Look-and-feel-custom-properties - Living style guide ✨
 
 ![image](https://user-images.githubusercontent.com/112861261/207143766-bd152611-0043-4d72-a839-f705751c6a41.png)
 
