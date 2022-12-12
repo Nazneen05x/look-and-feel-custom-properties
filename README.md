@@ -5,6 +5,8 @@
 
 > Je leert wat custom properties en container queries zijn en hoe je ze kan gebruiken voor een slimmere, consistentere en beter onderhoudbare CSS. Daarnaast kijken we ook hoe je jouw CSS bestand kan structureren. <strong>- fdnd</strong> 
 
+![image](https://user-images.githubusercontent.com/112861261/207144241-51d76f4b-43db-4f09-bbc4-54f7755f1046.png)
+
 
 ## Licentie
 
